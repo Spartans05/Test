@@ -1,0 +1,20 @@
+package com.mail.config;
+
+public class Constants {
+	
+	/*******************************************************************************************
+	* REPORT FILE PATH
+	********************************************************************************************/
+
+
+
+	public static String Report1 = "";
+	public static String Report2 = "";
+	public static String Report3 = "";
+	public static String Report4 = "";
+
+	/*******************************************************************************************
+	* EMAIL ADDRESS
+	********************************************************************************************/
+	public static String Receipient = "";
+	
